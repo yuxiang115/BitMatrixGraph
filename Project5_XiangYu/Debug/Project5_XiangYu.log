@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\yuxia_000\onedrive\study\cs\cs 2413\project5_xiangyu\project5_xiangyu\bitmatrixgraph.h(153): warning C4018: '<': signed/unsigned mismatch
+c:\users\yuxia_000\onedrive\study\cs\cs 2413\project5_xiangyu\project5_xiangyu\bitmatrixgraph.h(305): warning C4018: '<': signed/unsigned mismatch
+  Project5_XiangYu.vcxproj -> C:\Users\yuxia_000\OneDrive\Study\CS\CS 2413\Project5_XiangYu\Debug\Project5_XiangYu.exe
+  Project5_XiangYu.vcxproj -> C:\Users\yuxia_000\OneDrive\Study\CS\CS 2413\Project5_XiangYu\Debug\Project5_XiangYu.pdb (Partial PDB)
